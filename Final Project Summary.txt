@@ -1,0 +1,34 @@
+# Final Project Summary
+
+## Objective
+
+Build an Analytics Engineering style ecommerce analysis project using SQL.
+
+## Skills Demonstrated
+
+- Data Validation
+- Data Cleaning
+- Aggregations
+- Joins
+- Multi-table Joins
+- CASE WHEN
+- CTEs
+- Window Functions
+- Reporting Layer Design
+- Customer Segmentation
+- Seller Analysis
+- Delivery Analysis
+- Review Analysis
+
+## Deliverables
+
+- SQL Query Repository
+- Reporting Tables
+- ERD Diagram
+- Business Insights
+- KPI Analysis
+- Customer Segmentation Model
+
+## Outcome
+
+Successfully transformed raw ecommerce data into reporting-ready datasets and business insights using SQL.
